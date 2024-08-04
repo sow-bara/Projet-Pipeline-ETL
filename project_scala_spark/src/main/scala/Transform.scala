@@ -17,6 +17,7 @@ object Transform {
       .withColumn("event_previous_timestamp", from_unixtime(col("event_previous_timestamp") / 1000, "yyyy/MM/dd HH:mm:ss"))
       .withColumn("user_first_touch_timestamp", from_unixtime(col("user_first_touch_timestamp") / 1000, "yyyy/MM/dd HH:mm:ss"))
 
+
     /*
        1. Extraire les revenus d'achat pour chaque événement
          - Ajouter une nouvelle colonne nommée revenue en faisant l'extration de ecommerce.purchase_revenue_in_usd
@@ -27,14 +28,13 @@ object Transform {
       2. Filtrer les événements dont le revenu n'est pas null
       */
     val purchasesDF = revenueDF.filter(col("revenue").isNotNull)
-
     /*
        3. Quels sont les types d'événements qui génèrent des revenus ?
          Trouvez des valeurs event_name uniques dans purchasesDF.
          Combien y a t-il de type d'evenement ?
         */
     val distinctDF = purchasesDF.select("event_name").distinct()
-
+    distinctDF.show()
     /*
          4. Supprimer la/les colonne(s9 inutile(s)
           - Supprimez event_name de purchasesDF.
