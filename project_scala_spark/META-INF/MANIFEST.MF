@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: project_scala_spark
+Specification-Version: 0.1.0
+Specification-Vendor: project_scala_spark
+Implementation-Title: project_scala_spark
+Implementation-Version: 0.1.0
+Implementation-Vendor: project_scala_spark
+Implementation-Vendor-Id: project_scala_spark
+Main-Class: scala.Main
+
