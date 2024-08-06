@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/project_scala_spark_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala/Transform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala/Transform.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala/Extract.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala/Extract.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala/Transform$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala/Transform$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala/Load.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala/Load.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala/Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala/Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala/Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala/Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala/Load$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala/Load$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala/Extract$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala/Extract$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	scala/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/lemir/IdeaProjects/project_scala_spark/target/scala-2.12/classes/scala/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
